@@ -7,5 +7,10 @@ function divide(c,d){
         return c/d;
     }
     
+   
+}
+function power(e,f){
+   return Math.pow(e,f);
+    
 
 }

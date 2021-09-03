@@ -14,3 +14,8 @@ function power(e,f){
     
 
 }
+function substract(g,h){
+    return (h-g);
+     
+ 
+ }
